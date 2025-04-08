@@ -4,7 +4,8 @@
 			"path": "../c#/New folder"
 		},
 		{
-			"path": "ProjectsNew"
+			"path": "ProjectsNew" ;path
 		}
+
 	]
 }
